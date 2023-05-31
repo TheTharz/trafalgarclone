@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/trafalgarclone/static/css/main.ebf7b2db.css",
+    "main.js": "/trafalgarclone/static/js/main.b4d1b371.js",
+    "static/media/hero.png": "/trafalgarclone/static/media/hero.7ef37fcd72d49793fb43.png",
+    "static/media/detailsleading.png": "/trafalgarclone/static/media/detailsleading.017c0f36420164ea2b30.png",
+    "static/media/article3.png": "/trafalgarclone/static/media/article3.f4e3312aae3e53a3b4f1.png",
+    "static/media/download.png": "/trafalgarclone/static/media/download.374ab961b7ac1ea6f328.png",
+    "static/media/article1.png": "/trafalgarclone/static/media/article1.99c75cb2358639ca3705.png",
+    "static/media/article2.png": "/trafalgarclone/static/media/article2.539802bc0be306e37fdf.png",
+    "static/media/testimonial.png": "/trafalgarclone/static/media/testimonial.c28b29da64289f89630e.png",
+    "index.html": "/trafalgarclone/index.html",
+    "main.ebf7b2db.css.map": "/trafalgarclone/static/css/main.ebf7b2db.css.map",
+    "main.b4d1b371.js.map": "/trafalgarclone/static/js/main.b4d1b371.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebf7b2db.css",
+    "static/js/main.b4d1b371.js"
+  ]
+}
