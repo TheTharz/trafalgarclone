@@ -9,3 +9,4 @@ root.render(
     <App />
   </React.StrictMode>
 );
+//fixed a small issue
